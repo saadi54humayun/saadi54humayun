@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Saadi%20Humayun-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile">
   </a>
   <a href="mailto:saadihumayun64@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saadihumayun@gmail.com-red?style=flat-square&logo=gmail" alt="Email Me">
+    <img src="https://img.shields.io/badge/Email-saadihumayun64@gmail.com-red?style=flat-square&logo=gmail" alt="Email Me">
   </a>
 </p>
 
