@@ -121,14 +121,5 @@ I'm a Computer Science graduate (AI Specialization) from the Lahore University o
 
 ---
 
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadi54humayun&show_icons=true&theme=radical&count_private=true" alt="Saadi Humayun's GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadi54humayun&layout=compact&theme=radical&langs_count=8&hide=html,css" alt="Saadi Humayun's Top Languages">
-</p>
-
----
 
 Thanks for visiting my profile!
